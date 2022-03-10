@@ -1,7 +1,10 @@
+# Create folder name week09_node_typescript
+$ mkdir week09_node_typescript
+
 # Create typescript config file (tsconfig.json)
 $ tsc --init
 
-# Create node project
+# Create node project (will add package.json)
 $ npm init -y
 
 # Create build and src folder
